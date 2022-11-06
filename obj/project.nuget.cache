@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmE7vSHKzCkS2b/pULInVoyn4tAzxciT8iew7EhMhm90zxFsTmXjzQ+bQL/5V6J10gyYlclT7qRTXrXsUTVwrQ==",
+  "success": true,
+  "projectFilePath": "E:\\MISO\\2022-15\\Repo\\Metricas\\WebApiFramework\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GB\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\GB\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
